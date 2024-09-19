@@ -1,0 +1,6 @@
+faiss-cpu
+torch
+tensorflow
+tensorflow-hub
+transformers
+Flask
